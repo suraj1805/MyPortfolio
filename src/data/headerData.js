@@ -4,8 +4,8 @@ export const headerData = {
   name: "Suraj",
   title: "Web Developer",
   desciption:
-    "There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    "React.js Developer with experience in javascript, css, html,react.js, redux, material ui, frontend development, web development, Software Development, Software Engineering",
   image:
-    "https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png",
+    "https://github.com/suraj1805/MyPortfolio/blob/master/Portfolio-Image.jpg?raw=true",
   resumePdf: resume,
 };
